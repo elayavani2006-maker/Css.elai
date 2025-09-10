@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Resume - Elayavani T</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f4f6f9;
+      color: #333;
+    }
+    .container {
+      width: 80%;
+      max-width: 900px;
+      margin: 20px auto;
+      background: #fff;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+    h1 {
+      font-size: 28px;
+      margin-bottom: 5px;
+      color: #2c3e50;
+    }
+    h2 {
+      font-size: 20px;
+      margin-top: 20px;
+      color: #34495e;
+      border-bottom: 2px solid #3498db;
+      padding-bottom: 5px;
+    }
+    p, li {
+      line-height: 1.6;
+    }
+    .contact {
+      margin-bottom: 20px;
+    }
+    .contact p {
+      margin: 4px 0;
+    }
+    ul {
+      margin: 5px 0 15px 20px;
+    }
+    .skills, .languages {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+    .badge {
+      background: #3498db;
+      color: white;
+      padding: 5px 12px;
+      border-radius: 20px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>ELAYAVANI T</h1>
+    <p><strong>Aspiring Full Stack Developer</strong></p>
+    <p>Passionate Computer Science student with expertise in programming, networking, and multimedia tools. Strong leadership experience in departmental and club roles. Seeking to contribute to impactful projects as a software developer.</p>
+
+    <div class="contact">
+      <p>📱 6369186249</p>
+      <p>✉️ elayavani2006@gmail.com</p>
+    </div>
+
+    <h2>Technical Skills</h2>
+    <ul>
+      <li><strong>Programming:</strong> HTML, CSS, Python, Java</li>
+      <li><strong>Software & Tools:</strong> Adobe After Effects, Photoshop, Premiere Pro, CapCut</li>
+      <li><strong>Networking:</strong> IP Addressing, LAN/WAN, Network Security</li>
+    </ul>
+
+    <h2>Key Skills</h2>
+    <div class="skills">
+      <span class="badge">Communication</span>
+      <span class="badge">Adaptability</span>
+      <span class="badge">Teamwork</span>
+      <span class="badge">Time Management</span>
+      <span class="badge">System Administration</span>
+      <span class="badge">Leadership</span>
+    </div>
+
+    <h2>Education</h2>
+    <ul>
+      <li><strong>B.Sc Computer Science</strong> (2024 – 2027)</li>
+      <li><strong>Schooling:</strong> Ponneri Government School, Ponneri (2013 – 2024)</li>
+    </ul>
+
+    <h2>Certifications & Trainings</h2>
+    <ul>
+      <li>Networking Fundamentals – HCL Internship (2025)</li>
+      <li>Python Programming – Coursera (2024)</li>
+      <li>Foundations of UI/UX Design – Google</li>
+      <li>Introduction to Front-End Development – Meta</li>
+    </ul>
+
+    <h2>Achievements & Leadership</h2>
+    <ul>
+      <li>General Secretary, Department of Computer Science (2023)</li>
+      <li>General Secretary, Department of English (2024)</li>
+      <li>NSS Student Member</li>
+    </ul>
+
+    <h2>Languages</h2>
+    <div class="languages">
+      <span class="badge">English</span>
+      <span class="badge">Tamil</span>
+    </div>
+  </div>
+</body>
+</html>
